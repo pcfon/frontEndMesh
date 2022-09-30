@@ -21,7 +21,7 @@ const MsApp = () => {
 
     return (
         <div style={{ padding : '10px', backgroundColor: 'black', color: 'white', minHeight: '100vh', fontSize: '14px' }}>
-            <div style={{ fontWeight: 'bold', paddingBottom: '10px', fontSize: '26px' }}>Sample React App</div>
+            <div style={{ fontWeight: 'bold', paddingBottom: '10px', fontSize: '26px' }}>Charles Change Sample React App</div>
             <div style={{ display: 'flex' }}>
                 <button onClick={handleClick}>{message}</button>
             </div>
